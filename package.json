@@ -3,7 +3,7 @@
   "productName": "assist",
   "version": "2024.06.09",
   "description": "Appligeeks Assist",
-  "main": "src/index.js",
+  "main": "src/server.js",
   "scripts": {
     "start": "electron-forge start",
     "package": "electron-forge package",
