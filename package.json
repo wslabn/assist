@@ -1,8 +1,8 @@
 {
   "name": "assist",
   "productName": "assist",
-  "version": "1.0.0",
-  "description": "My Electron application description",
+  "version": "2024.06.09",
+  "description": "Appligeeks Assist",
   "main": "src/index.js",
   "scripts": {
     "start": "electron-forge start",
